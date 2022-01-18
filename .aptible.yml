@@ -1,0 +1,3 @@
+
+before_release:
+  - python manage.py migrate
